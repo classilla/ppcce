@@ -1,0 +1,1 @@
+A simple Windows CE hello world written to test the Data General WiiN-Pad. It is public domain and builds with Platform Builder 2.11. The included workspace only enables the PowerPC target. A build is in `bin/`.

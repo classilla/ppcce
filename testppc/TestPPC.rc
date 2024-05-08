@@ -1,0 +1,14 @@
+//
+// Copyright  1994-1997  Microsoft Corporation.  All Rights Reserved.
+//
+// Module Name:
+//
+//    generic.cpp
+//
+#include <windows.h>
+
+STRINGTABLE
+   BEGIN
+     1  L"Generic"
+	 2  L"Generic Sample"
+   END
